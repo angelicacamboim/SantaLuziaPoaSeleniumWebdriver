@@ -4,7 +4,7 @@ Utilizei Selenium Webdriver para teste de regressão no site http://teste.santal
 
 Cenários de testes:
 
-- Realiza login com sucesso (Pronto)
+- Realizar login com sucesso (Pronto)
 
 - Editar Perfil com sucesso (Pronto, mas precisa fazer ajustes)
 
